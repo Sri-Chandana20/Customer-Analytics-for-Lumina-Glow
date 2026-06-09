@@ -72,7 +72,7 @@ orders (order_id is the PRIMARY KEY. customer_id and product_id are the FOREIGN 
 
 - On average, **more than 5 new customers joined each month**, with April having the highest number (16 customers).
 
-- There are **34 repeat customers** in the dataset. Also, 26 customers have purchased from more than one product category.
+- There are **34 repeat customers.** Also, 26 customers have purchased from more than one product category.
 
 - **Smartwatch** generated the **highest revenue** (132,981), while Cotton T-Shirt generated the lowest revenue (2,397).
 
